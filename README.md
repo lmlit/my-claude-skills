@@ -1,6 +1,6 @@
-# alysia-skills
+# my-claude-skills
 
-Custom Claude Code skills for the alysia ecosystem.
+Personal collection of Claude Code skills, shared across all projects.
 
 ## Skills
 
@@ -12,7 +12,7 @@ Custom Claude Code skills for the alysia ecosystem.
 
 ```bash
 # Clone to global skills directory
-git clone https://github.com/lmlit/alysia-skills.git ~/.claude/skills/alysia-skills
+git clone https://github.com/lmlit/my-claude-skills.git ~/.claude/skills/my-claude-skills
 
 # Or copy individual skills
 cp clash-proxy.md ~/.claude/skills/
